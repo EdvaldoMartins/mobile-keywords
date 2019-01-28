@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#273238</color>
+    <color name="colorPrimaryDark">#273238</color>
+    <color name="colorAccent">#c9ad3c</color>
+    <color name="email">#e4c516</color>
+    <color name="numero">#e15555</color>
+    <color name="domain_name">#c9ad3c</color>
+    <color name="ip_address">#f22404</color>
+    <color name="key_words">#9d6bd1</color>
+    <color name="my_key_words">#fa8b03</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="cooo">#3f2480</color>
+</resources>
